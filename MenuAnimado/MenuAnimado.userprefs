@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\MenuAnimadoC.cs">
+    <Files>
+      <File FileName="Assets\scripts\MenuAnimadoC.cs" Line="67" Column="4" />
+      <File FileName="Assets\scripts\MenuAnimado.js" Line="77" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
